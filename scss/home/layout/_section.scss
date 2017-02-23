@@ -1,0 +1,29 @@
+section#busca {
+    position: relative;
+    margin-top: 5%;
+}
+section#beers {
+    position:relative;
+    margin-bottom: 10%;
+    .columns {
+        padding-left: 20px;
+        padding-right: 20px;
+        .column{
+            
+        }
+    }
+    .content{
+        color:#fff;
+        h1{            
+            font-size: 15px;
+            text-transform: uppercase;
+        }
+        p {
+           font-size: 10px;
+        }
+    }
+}
+section#app{
+    position: relative;
+    margin-bottom: 5%;
+}
